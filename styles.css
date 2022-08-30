@@ -1,0 +1,15 @@
+body {
+    background-color: #333333;
+    color: #aaaaaa;
+}
+
+h1 {
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+div p img {
+    display: block;
+    background-color: white;
+    margin: 0 auto;
+}
